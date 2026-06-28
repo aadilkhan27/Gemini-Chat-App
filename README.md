@@ -6,7 +6,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.16+-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.2+-0175C2?logo=dart)
-![Gemini](https://img.shields.io/badge/Gemini_API-1.5_Flash-4285F4?logo=google)
+![Gemini](https://img.shields.io/badge/Gemini_API-2.5_Flash-4285F4?logo=google)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## What makes this different from basic Gemini tutorials
